@@ -2,5 +2,6 @@
 
 window.addEventListener('load', ()=>{
     const button = document.getElementById('btn');
-    button.setAttribute('disabled', false);
+    button.setAttribute('disabled', '');
 })
+
